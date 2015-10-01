@@ -74,6 +74,7 @@
     <Compile Include="Rules\MarkReadonlyFieldsRule.cs" />
     <Compile Include="Rules\RegionsSuckRule.cs" />
     <Compile Include="Rules\RemovedUnusedUsingStatementRule.cs" />
+    <Compile Include="Rules\SortClassMembersRule.cs" />
     <Compile Include="SemaphoreLock.cs" />
     <Compile Include="SyntaxUtil.cs" />
     <Compile Include="Filters\FilenameFilter.cs" />
