@@ -12,6 +12,7 @@ namespace Microsoft.DotNet.CodeFormatting.Rules
     // Please keep these values sorted by number, not rule name.    
     internal static class SyntaxRuleOrder
     {
+        public const int SortClassMembersRule = 0;
         public const int HasNoCustomCopyrightHeaderFormattingRule = 1;
         public const int UsingLocationFormattingRule = 2;
         public const int NewLineAboveFormattingRule = 3;
